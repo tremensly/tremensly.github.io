@@ -1,3 +1,3 @@
-# There is currently some downtime going on in this domain, 'tremensly.me'.
+# If you are seeing this message on "tremensly.me", that means this site is actively experiencing an outage or downtime.
 
-## Please be patient as the website developer resolves this, which would be within the next 24 to 48 hours. We apologize for this inconveinence.
+## Please be patient as the site owner resolves this issue.
